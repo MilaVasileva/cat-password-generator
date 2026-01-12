@@ -5,23 +5,21 @@ Perfect for designers, developers, and anyone who wants a bit of fun while creat
 
 ---
 
+## 🎮 Live Demo  
+👉 https://milavasileva.github.io/cat-password-generator/
+
+---
+
+## 📸 Screenshot
+![Screenshot of the Cat Password Generator](screenshot.png)
+
+---
+
 ## ✨ Features
 - Generates random passwords with a cat-themed twist  
 - Simple, clean interface  
 - Pure HTML, CSS, and JavaScript  
 - No libraries, no dependencies  
-
----
-
-## 🎮 Live Demo
-https://milavasileva.github.io/cat-password-generator/
-
----
-
-## 📁 Files
-- `index.html` — structure  
-- `style.css` — styling  
-- `script.js` — logic  
 
 ---
 
@@ -31,8 +29,10 @@ Every click = new cat mischief.
 
 ---
 
-## 📸 Screenshot
-![Screenshot of the Cat Password Generator](screenshot.png)
+## 📁 Files
+- `index.html` — structure  
+- `style.css` — styling  
+- `script.js` — logic  
 
 ---
 
