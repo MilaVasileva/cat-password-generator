@@ -14,7 +14,7 @@ Perfect for designers, developers, and anyone who wants a bit of fun while creat
 ---
 
 ## 🎮 Live Demo
-(Добави линк към GitHub Pages, когато го активираме в следващата стъпка)
+
 
 ---
 
