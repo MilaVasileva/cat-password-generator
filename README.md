@@ -32,7 +32,7 @@ Every click = new cat mischief.
 ---
 
 ## 📸 Screenshot
-
+![Screenshot of the Cat Password Generator](screenshot.png)
 
 ---
 
