@@ -14,7 +14,7 @@ Perfect for designers, developers, and anyone who wants a bit of fun while creat
 ---
 
 ## 🎮 Live Demo
-
+https://milavasileva.github.io/cat-password-generator/
 
 ---
 
