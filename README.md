@@ -38,3 +38,10 @@ Every click = new cat mischief.
 
 ## 💛 Author
 Created with curiosity and humor by **Mila Vasileva**.
+
+---
+
+## 📄 License
+This project is licensed under the **CC BY-NC 4.0** license.  
+You may use it for personal and educational purposes, with attribution.  
+Commercial use is not allowed.
